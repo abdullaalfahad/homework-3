@@ -1,0 +1,45 @@
+.mydiv {
+	border: 5px outset #f5d000;
+	background-color: #87CEEB;
+	text-align: center;
+	color: white;
+
+}
+
+.control{
+	width: 100px;
+}
+
+.back{
+	background-color: #FFA500;
+	text-align: center; 
+}
+
+table
+	{
+	width: 500px;
+	height: 300px;
+	border: 3px solid black;
+	border-spacing: 1px;
+	border-collapse: collapse;	
+}
+
+th,td
+	{
+	border: 2px solid black;
+	text-align: center;
+	padding: 20px;
+				
+}
+
+h2{
+	color: blue;
+}
+
+.first_h{
+	text-align: center;
+	font-size: 50px;
+	margin: 0px;
+	background-color: #87CEEB;
+	padding: 40px;
+}
